@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Saif",
+    "phoneNumber": "9700143502",
+    "email": "mohammeds@clouddestinations.com",
+    "password": "$2a$10$tmu5yL4R.fjM3gh5JlHtNeiZGbGgv8S/90DYPIIAue5yZuIk4SUJe",
+    "hobby": "Tech",
+    "role": "superuser",
+    "id": 1,
+    "verificationToken": null
+  },
+  {
+    "name": "Saif",
+    "phoneNumber": "9700143501",
+    "email": "mohammeds1@clouddestinations.com",
+    "hobby": "test",
+    "password": "$2a$10$tmu5yL4R.fjM3gh5JlHtNeiZGbGgv8S/90DYPIIAue5yZuIk4SUJe",
+    "role": "godownAdmin",
+    "godownId": 1,
+    "id": 2
+  },
+  {
+    "name": "Saif",
+    "phoneNumber": "9700143501",
+    "email": "mohammeds2@clouddestinations.com",
+    "hobby": "test",
+    "password": "$2a$10$tmu5yL4R.fjM3gh5JlHtNeiZGbGgv8S/90DYPIIAue5yZuIk4SUJe",
+    "role": "shopAdmin",
+    "shopId": 1,
+    "id": 3
+  },
+  {
+    "name": "Saif",
+    "phoneNumber": "9700143501",
+    "email": "mohammeds3@clouddestinations.com",
+    "hobby": "test",
+    "password": "$2a$10$tmu5yL4R.fjM3gh5JlHtNeiZGbGgv8S/90DYPIIAue5yZuIk4SUJe",
+    "role": "shopEmp",
+    "shopId": 1,
+    "id": 4
+  },
+  {
+    "name": "Saif",
+    "phoneNumber": "9700143501",
+    "email": "mohammeds4@clouddestinations.com",
+    "hobby": "test",
+    "password": "$2a$10$tmu5yL4R.fjM3gh5JlHtNeiZGbGgv8S/90DYPIIAue5yZuIk4SUJe",
+    "role": "cus",
+    "id": 5
+  }
+]

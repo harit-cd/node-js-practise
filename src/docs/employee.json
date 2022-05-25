@@ -1,0 +1,171 @@
+[
+  {
+    "name": "Marina joi",
+    "dob": "04-04-1989",
+    "password": "mandatory",
+    "mobile": 9654455880,
+    "email": "marinajo@gmail.com",
+    "hobby": "Optional",
+    "shopName": "pj shop",
+    "shopId": 1,
+    "status": "active",
+    "role": "Hr",
+    "id": 1
+  },
+  {
+    "name": "Marina",
+    "dob": "04-04-1989",
+    "password": "mandatory",
+    "mobile": 9654455880,
+    "email": "marina@gmail.com",
+    "hobby": "Optional",
+    "shopId": 2,
+    "status": "inactive",
+    "role": "Hr",
+    "id": 2
+  },
+  {
+    "name": "joi",
+    "dob": "04-04-1989",
+    "password": "mandatory",
+    "mobile": 9654455880,
+    "email": "jo@gmail.com",
+    "hobby": "Optional",
+    "status": "inactive",
+    "godownId": 1,
+    "role": "Hr",
+    "id": 3
+  },
+  {
+    "name": "Sharun",
+    "dob": "04-04-1989",
+    "mobile": 9654455880,
+    "email": "marinajo@gmail.com",
+    "hobby": "Optional",
+    "shopId": 2,
+    "status": "active",
+    "role": "User",
+    "id": 4
+  },
+  {
+    "name": "Sharun",
+    "dob": "04-04-1989",
+    "mobile": 9654455880,
+    "email": "marinajo@gmail.com",
+    "hobby": "Optional",
+    "shopId": 3,
+    "status": "inactive",
+    "role": "user",
+    "id": 5
+  },
+  {
+    "name": "Sharun",
+    "dob": "04-04-1989",
+    "mobile": 9654455880,
+    "email": "sharun@gmail.com",
+    "hobby": "Optional",
+    "shopId": 1,
+    "status": "active",
+    "role": "user",
+    "id": 6
+  },
+  {
+    "name": "Max",
+    "dob": "04-04-1989",
+    "mobile": 9654455880,
+    "email": "max@gmail.com",
+    "hobby": "Optional",
+    "shopId": 3,
+    "status": "inactive",
+    "role": "user",
+    "id": 7
+  },
+  {
+    "name": "anisha",
+    "dob": "04-04-1989",
+    "mobile": 9654455880,
+    "email": "anisha@gmail.com",
+    "hobby": "Optional",
+    "status": "inactive",
+    "shopId": 2,
+    "role": "user",
+    "id": 8
+  },
+  {
+    "name": "Max",
+    "dob": "04-04-1989",
+    "mobile": 9654455880,
+    "email": "joi@gmail.com",
+    "hobby": "Optional",
+    "status": "active",
+    "godownId": 1,
+    "role": "user",
+    "id": 9
+  },
+  {
+    "name": "Max",
+    "dob": "04-04-1989",
+    "mobile": 9654455880,
+    "email": "jo@gmail.com",
+    "hobby": "Optional",
+    "status": "active",
+    "shopId": 3,
+    "role": "user",
+    "id": 10
+  },
+  {
+    "name": "Sam",
+    "dob": "04-04-1989",
+    "mobile": 9654455880,
+    "email": "Sam@gmail.com",
+    "hobby": "Optional",
+    "status": "active",
+    "godownId": 2,
+    "role": "user",
+    "id": 11
+  },
+  {
+    "name": "Mohan",
+    "dob": "04-04-1989",
+    "mobile": 9654455880,
+    "email": "mohan@gmail.com",
+    "hobby": "Optional",
+    "godownId": 3,
+    "status": "active",
+    "role": "user",
+    "id": 12
+  },
+  {
+    "name": "Max jo",
+    "dob": "04-04-1989",
+    "mobile": 9654455880,
+    "email": "mj@gmail.com",
+    "hobby": "Optional",
+    "status": "inactive",
+    "godownId": 2,
+    "role": "user",
+    "id": 13
+  },
+  {
+    "name": "Sun Goku",
+    "dob": "04-04-1989",
+    "mobile": 9654455880,
+    "email": "sun@gmail.com",
+    "hobby": "Optional",
+    "status": "active",
+    "shopId": 1,
+    "role": "user",
+    "id": 14
+  },
+  {
+    "name": "Sun Goku",
+    "dob": "04-04-1989",
+    "mobile": 9654455880,
+    "email": "sungt@gmail.com",
+    "hobby": "Optional",
+    "status": "active",
+    "shopId": 1,
+    "role": "user",
+    "id": 15
+  }
+]

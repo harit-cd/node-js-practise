@@ -1,0 +1,162 @@
+[
+  {
+    "name": "paracetamol",
+    "expiryDate": "12-20-2021",
+    "manufactureDate": "20-10-2021",
+    "company": "Cipla",
+    "unitPrice": 2,
+    "medicineType": "analgesis",
+    "id": 1,
+    "status": "expired"
+  },
+  {
+    "name": "Amoxcillin",
+    "expiryDate": "12-20-2021",
+    "manufactureDate": "10-20-2021",
+    "company": "Cipla",
+    "unitPrice": 10,
+    "medicineType": "antibiotics",
+    "id": 2,
+    "status": "expired"
+  },
+  {
+    "name": "Aceclofenac",
+    "expiryDate": "11-20-2023",
+    "manufactureDate": "1-20-2022",
+    "company": "Lupin",
+    "unitPrice": 7,
+    "medicineType": "anti-inflamatory",
+    "id": 3,
+    "status": "active"
+  },
+  {
+    "name": "ceterzine",
+    "expiryDate": "1-10-2023",
+    "manufactureDate": "10-20-2021",
+    "company": "Cipla",
+    "unitPrice": 2,
+    "medicineType": "antihistamine",
+    "id": 4,
+    "status": "active"
+  },
+  {
+    "name": "Dolo-650",
+    "expiryDate": "20-12-2021",
+    "manufactureDate": "1-20-2022",
+    "company": "Lupin",
+    "unitPrice": 2,
+    "medicineType": "analgesis",
+    "id": 5,
+    "status": "active"
+  },
+  {
+    "name": "Ketoconazole",
+    "expiryDate": "5-4-2023",
+    "manufactureDate": "1-20-2019",
+    "company": "Dr Reddy's Laboratories",
+    "unitPrice": "12",
+    "medicineType": "anti-fungal",
+    "id": 6,
+    "status": "active"
+  },
+  {
+    "name": "Pantropozole",
+    "expiryDate": "12-20-2023",
+    "manufactureDate": "20-10-2021",
+    "company": "Lupin",
+    "unitPrice": 5,
+    "medicineType": "antacids",
+    "id": 7,
+    "status": "active"
+  },
+  {
+    "name": "ketamine",
+    "expiryDate": "12-20-2023",
+    "manufactureDate": "20-10-2022",
+    "company": "Lupin",
+    "unitPrice": "30",
+    "medicineType": "anesthesia",
+    "id": 8,
+    "status": "active"
+  },
+  {
+    "name": "Propofol",
+    "expiryDate": "30-07-2023",
+    "manufactureDate": "20-10-2022",
+    "company": "Divi's Laboratories",
+    "unitPrice": "19",
+    "medicineType": "anesthesia",
+    "id": 9,
+    "status": "active"
+  },
+  {
+    "name": "Thiopental",
+    "expiryDate": "30-07-2023",
+    "manufactureDate": "20-10-2022",
+    "company": "Sun Pharma",
+    "unitPrice": "20",
+    "medicineType": "anesthesia",
+    "id": 10,
+    "status": "active"
+  },
+  {
+    "name": "Nizatidine",
+    "expiryDate": "1-01-2024",
+    "manufactureDate": "20-10-2022",
+    "company": "Sun Pharma",
+    "unitPrice": "17",
+    "medicineType": "antacids",
+    "id": 11,
+    "status": "active"
+  },
+  {
+    "name": "cephalexin",
+    "expiryDate": "1-10-2023",
+    "manufactureDate": "20-10-2022",
+    "company": "Sun Pharma",
+    "unitPrice": "30",
+    "medicineType": "antibiotics",
+    "id": 12,
+    "status": "active"
+  },
+  {
+    "name": "levofloxacin",
+    "expiryDate": "1-10-2023",
+    "manufactureDate": "20-10-2022",
+    "company": "Lupin",
+    "unitPrice": "15",
+    "medicineType": "antibiotics",
+    "id": 13,
+    "status": "active"
+  },
+  {
+    "name": "diclofenac",
+    "expiryDate": "1-10-2023",
+    "manufactureDate": "20-10-2022",
+    "company": "Lupin",
+    "unitPrice": 5,
+    "medicineType": "anti-inflamatory",
+    "id": 14,
+    "status": "inactive"
+  },
+  {
+    "name": "ibuprofen",
+    "expiryDate": "1-10-2023",
+    "manufactureDate": "20-10-2022",
+    "company": "Cipla",
+    "unitPrice": 15,
+    "medicineType": "anti-inflamatory",
+    "id": 15,
+    "status": "inactive"
+  },
+  {
+    "name": "Medicine 16",
+    "expiryDate": "12-20-2023",
+    "manufactureDate": "20-10-2021",
+    "company": "Lupin",
+    "unitPrice": 5,
+    "medicineType": "antacids",
+    "id": 16,
+    "status": "inactive"
+  }
+]

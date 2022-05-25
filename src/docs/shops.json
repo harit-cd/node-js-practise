@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "name": "Shop 1",
+    "location": "Bangalore",
+    "phoneNumber": "9700134502",
+    "email": "shop1@gmail.com",
+    "medicines": [
+      {
+        "id": 1,
+        "qty": 10,
+        "name": "Medicine 1"
+      },
+      {
+        "id": 3,
+        "qty": 5,
+        "name": "Medicine 2"
+      },
+      {
+        "id": 4,
+        "qty": 5,
+        "name": "Medicine 3"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Shop update",
+    "location": "Hyderabad",
+    "phoneNumber": "9700134503",
+    "email": "shop2@gmail.com",
+    "medicines": [
+      {
+        "id": 1,
+        "qty": 10,
+        "name": "Medicine 1"
+      },
+      {
+        "id": 3,
+        "qty": 5,
+        "name": "Medicine 4"
+      },
+      {
+        "id": 4,
+        "qty": 5,
+        "name": "Medicine 5"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Shop update 2",
+    "location": "chn",
+    "phoneNumber": "9700134503",
+    "email": "shop3@gmail.com"
+  }
+]

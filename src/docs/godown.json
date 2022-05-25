@@ -1,0 +1,224 @@
+[
+  {
+    "godownId": 1,
+    "godownLocation": "Chennai",
+    "godownPincode": 600005,
+    "medicines": [
+      {
+        "medicineId": 1,
+        "medicineName": "paracetamol",
+        "medicineType": "analgesis",
+        "company": "Cipla",
+        "unitPrice": 2,
+        "medicineQuantity": 175,
+        "manufactureDate": "20-10-2021",
+        "expiryDate": "12-20-2021",
+        "status": "expired"
+      },
+      {
+        "medicineId": 2,
+        "medicineName": "Amoxcillin",
+        "medicineType": "antibiotics",
+        "company": "Cipla",
+        "unitPrice": 10,
+        "medicineQuantity": 115,
+        "manufactureDate": "10-20-2021",
+        "expiryDate": "12-20-2021",
+        "status": "expired"
+      },
+      {
+        "medicineId": 3,
+        "medicineName": "Aceclofenac",
+        "medicineType": "anti-inflamatory",
+        "company": "Lupin",
+        "unitPrice": 7,
+        "medicineQuantity": 370,
+        "manufactureDate": "1-20-2022",
+        "expiryDate": "11-20-2023",
+        "medicineStatus": "active"
+      }
+    ]
+  },
+  {
+    "godownId": 2,
+    "godownLocation": "Chennai",
+    "godownPincode": 600054,
+    "medicines": [
+      {
+        "medicineId": 4,
+        "MedicineName": "ceterzine",
+        "medicineType": "antihistamine",
+        "medicineCompany": "Cipla",
+        "unitPrice": 2,
+        "medicineQuantity": 275,
+        "manufactureDate": "10-20-2021",
+        "expiryDate": "1-10-2023",
+        "medicineStatus": "active"
+      },
+      {
+        "medicineId": 5,
+        "medicineName": "Dolo-650",
+        "medicineType": "analgesis",
+        "medicineCompany": "Lupin",
+        "unitPrice": 2,
+        "medicineQuantity": 77,
+        "manufactureDate": "1-20-2022",
+        "expiryDate": "20-12-2021",
+        "medicineStatus": "active"
+      },
+      {
+        "meidcineId": 6,
+        "meidicineName": "Ketoconazole",
+        "medicineType": "anti-fungal",
+        "meidinceCompany": "Dr Reddy's Labs",
+        "unitPrice": 12,
+        "medicineQuantity": 382,
+        "manufactureDate": "1-20-2019",
+        "expiryDate": "5-4-2023",
+        "meidicineStatus": "active"
+      }
+    ]
+  },
+  {
+    "godownId": 3,
+    "godownLocation": "Coimbatore",
+    "godownPincode": 641052,
+    "medicines": [
+      {
+        "medicineId": 7,
+        "medicineName": "Pantropozole",
+        "medicineType": "antacids",
+        "medicineCompany": "Lupin",
+        "unitPrice": 5,
+        "medicineQuantity": 15,
+        "manufactureDate": "20-10-2021",
+        "expiryDate": "12-20-2023",
+        "medicineStatus": "active"
+      },
+      {
+        "medicineId": 8,
+        "medicineName": "ketamine",
+        "medicineType": "anesthesia",
+        "medicineCompany": "Lupin",
+        "unitPrice": 30,
+        "medicineQuantity": 17,
+        "manufactureDate": "20-10-2022",
+        "expiryDate": "12-20-2023",
+        "medicineStatus": "active"
+      },
+      {
+        "medicineId": 9,
+        "mediineName": "Propofol",
+        "medicineType": "anesthesia",
+        "medicineCompany": "Divi's Labs",
+        "unitPrice": 19,
+        "medicineQuantity": 69,
+        "manufactureDate": "20-10-2022",
+        "expiryDate": "30-07-2023",
+        "medicineStatus": "active"
+      }
+    ]
+  },
+  {
+    "godownId": 4,
+    "godownLocation": "Coimbatore",
+    "godownPincode": 641003,
+    "medicines": [
+      {
+        "medicineId": 10,
+        "medicineName": "Thiopental",
+        "medicineCompany": "Sun Pharma",
+        "unitPrice": 20,
+        "medicineQuantity": 84,
+        "medicineType": "anesthesia",
+        "manufactureDate": "20-10-2022",
+        "expiryDate": "30-07-2023",
+        "medicineStatus": "active"
+      },
+      {
+        "medicineId": 11,
+        "medicineName": "Nizatidine",
+        "medicineType": "antacids",
+        "medicineCompany": "Sun Pharma",
+        "unitPrice": 17,
+        "medicineQuantity": 295,
+        "manufactureDate": "20-10-2022",
+        "expiryDate": "1-01-2024",
+        "medicineStatus": "active"
+      },
+      {
+        "medicineId": 12,
+        "medicineName": "cephalexin",
+        "medicineType": "antibiotics",
+        "medicineCompany": "Sun Pharma",
+        "unitPrice": 30,
+        "medicineQuantity": 322,
+        "manufactureDate": "20-10-2022",
+        "expiryDate": "1-10-2023",
+        "medicineStatus": "active"
+      }
+    ]
+  },
+  {
+    "godownLocation": "Vizhupuram",
+    "godownPincode": 635103,
+    "godownId": 5,
+    "medicine": [
+      {
+        "meidicineName": "Ketoconazole",
+        "medicineType": "anti-fungal",
+        "meidinceCompany": "Dr Reddy's Labs",
+        "unitPrice": 12,
+        "medicineQuantity": 382,
+        "manufactureDate": "1-20-2019",
+        "expiryDate": "5-4-2023",
+        "meidicineStatus": "active"
+      },
+      {
+        "meidicineName": "Luliconazole",
+        "medicineType": "anti-fungal",
+        "meidinceCompany": "Dr Reddy's Labs",
+        "unitPrice": 12,
+        "medicineQuantity": 382,
+        "manufactureDate": "1-20-2019",
+        "expiryDate": "5-4-2023",
+        "meidicineStatus": "active"
+      },
+      {
+        "meidicineName": "Ernoconazole",
+        "medicineType": "anti-fungal",
+        "meidinceCompany": "Dr Reddy's Labs",
+        "unitPrice": 12,
+        "medicineQuantity": 382,
+        "manufactureDate": "1-20-2019",
+        "expiryDate": "5-4-2023",
+        "meidicineStatus": "active"
+      }
+    ]
+  },
+  {
+    "godownLocation": "Avadi",
+    "godownPincode": 600071,
+    "godownId": 6,
+    "medicine": [
+      {
+        "medicineId": 1,
+        "medicineName": "jkl",
+        "medicineQuantity": 120,
+        "medicineStatus": "active",
+        "medicineType": "antibiotic"
+      },
+      {
+        "medicineId": 3,
+        "medicineName": "pqr",
+        "medicineCompany": "ghi",
+        "medicineStatus": "active"
+      },
+      {
+        "medicineId": 21,
+        "medicineName": "abc",
+        "medicineStatus": "active"
+      }
+    ]
+  }
+]
